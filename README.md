@@ -4,7 +4,7 @@
 
 **ParkSmart** é uma aplicação desenvolvida em **Java Swing** que gerencia o estacionamento de veículos, calcula tarifas de acordo com o tempo de permanência e valida as placas de veículos provenientes da região Sul do Brasil (Paraná, Santa Catarina e Rio Grande do Sul). Com uma interface gráfica intuitiva e moderna, o sistema oferece uma solução prática e eficiente para o controle de vagas e cobrança de taxas.
 
-![Ilustração do projeto Estacionamento](ParkSmart/projetoEstacionamento.png)
+![Ilustração do projeto Estacionamento](projetoEstacionamento.png)
 
 ⚙️ **Desenvolvido com:**
 
