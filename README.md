@@ -21,7 +21,7 @@
 
 ## Contribuidores
 
-Este projeto foi desenvolvido como parte da disciplina de **Resolução da Natureza de Matemática Discreta** e contou com a colaboração dos seguintes contribuintes:
+Este projeto foi desenvolvido como parte da disciplina de **Resolução de Problemas de Natureza Discreta** e contou com a colaboração dos seguintes contribuintes:
 
 - <img src="https://github.com/lumab23.png" alt="Luma" width="30" height="30" style="border-radius: 50%;"> [Luma](https://github.com/lumab23)
 - <img src="https://github.com/Amandafonsecarodrigues.png" alt="Amanda" width="30" height="30" style="border-radius: 50%;"> [Amanda](https://github.com/Amandafonsecarodrigues)
